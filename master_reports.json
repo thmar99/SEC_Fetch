@@ -1,0 +1,677 @@
+[
+    {
+        "name_short": "Cover Page",
+        "name_long": "0001000 - Document - Cover Page",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R1.htm"
+    },
+    {
+        "name_short": "Consolidated Results of Operations",
+        "name_long": "1001000 - Statement - Consolidated Results of Operations",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R2.htm"
+    },
+    {
+        "name_short": "Consolidated Comprehensive Income",
+        "name_long": "1002000 - Statement - Consolidated Comprehensive Income",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R3.htm"
+    },
+    {
+        "name_short": "Consolidated Comprehensive Income (Parenthetical) (Parentheticals)",
+        "name_long": "1003500 - Statement - Consolidated Comprehensive Income (Parenthetical) (Parentheticals)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R4.htm"
+    },
+    {
+        "name_short": "Consolidated Financial Position",
+        "name_long": "1004000 - Statement - Consolidated Financial Position",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R5.htm"
+    },
+    {
+        "name_short": "Consolidated Financial Position (Parenthetical) (Parentheticals)",
+        "name_long": "1005500 - Statement - Consolidated Financial Position (Parenthetical) (Parentheticals)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R6.htm"
+    },
+    {
+        "name_short": "Changes in Consolidated Shareholders' Equity",
+        "name_long": "1006000 - Statement - Changes in Consolidated Shareholders' Equity",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R7.htm"
+    },
+    {
+        "name_short": "Changes in Consolidated Shareholders' Equity (Parenthetical) (Parentheticals)",
+        "name_long": "1008500 - Statement - Changes in Consolidated Shareholders' Equity (Parenthetical) (Parentheticals)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R8.htm"
+    },
+    {
+        "name_short": "Consolidated Statement of Cash Flow",
+        "name_long": "1009000 - Statement - Consolidated Statement of Cash Flow",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R9.htm"
+    },
+    {
+        "name_short": "Operations and summary of significant accounting policies",
+        "name_long": "2101100 - Disclosure - Operations and summary of significant accounting policies",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R10.htm"
+    },
+    {
+        "name_short": "Sales and revenue recognition Sales and revenue recognition (Notes)",
+        "name_long": "2101100 - Disclosure - Sales and revenue recognition Sales and revenue recognition (Notes)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R11.htm"
+    },
+    {
+        "name_short": "Stock-based compensation",
+        "name_long": "2101100 - Disclosure - Stock-based compensation",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R12.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management",
+        "name_long": "2102100 - Disclosure - Derivative financial instruments and risk management",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R13.htm"
+    },
+    {
+        "name_short": "Other income (expense)",
+        "name_long": "2103100 - Disclosure - Other income (expense)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R14.htm"
+    },
+    {
+        "name_short": "Income taxes",
+        "name_long": "2104100 - Disclosure - Income taxes",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R15.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities",
+        "name_long": "2105100 - Disclosure - Cat Financial Financing Activities",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R16.htm"
+    },
+    {
+        "name_short": "Inventories",
+        "name_long": "2106100 - Disclosure - Inventories",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R17.htm"
+    },
+    {
+        "name_short": "Property, plant and equipment",
+        "name_long": "2107100 - Disclosure - Property, plant and equipment",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R18.htm"
+    },
+    {
+        "name_short": "Intangible assets and goodwill",
+        "name_long": "2109100 - Disclosure - Intangible assets and goodwill",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R19.htm"
+    },
+    {
+        "name_short": "Investments in debt and equity securities",
+        "name_long": "2110100 - Disclosure - Investments in debt and equity securities",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R20.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans",
+        "name_long": "2111100 - Disclosure - Postemployment benefit plans",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R21.htm"
+    },
+    {
+        "name_short": "Short-term borrowings",
+        "name_long": "2112100 - Disclosure - Short-term borrowings",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R22.htm"
+    },
+    {
+        "name_short": "Long-term debt",
+        "name_long": "2113100 - Disclosure - Long-term debt",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R23.htm"
+    },
+    {
+        "name_short": "Credit commitments",
+        "name_long": "2114100 - Disclosure - Credit commitments",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R24.htm"
+    },
+    {
+        "name_short": "Profit per share",
+        "name_long": "2115100 - Disclosure - Profit per share",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R25.htm"
+    },
+    {
+        "name_short": "Accumulated other comprehensive income (loss)",
+        "name_long": "2116100 - Disclosure - Accumulated other comprehensive income (loss)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R26.htm"
+    },
+    {
+        "name_short": "Fair value disclosures",
+        "name_long": "2117100 - Disclosure - Fair value disclosures",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R27.htm"
+    },
+    {
+        "name_short": "Concentration of credit risk",
+        "name_long": "2118100 - Disclosure - Concentration of credit risk",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R28.htm"
+    },
+    {
+        "name_short": "Leases",
+        "name_long": "2120100 - Disclosure - Leases",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R29.htm"
+    },
+    {
+        "name_short": "Guarantees and product warranty",
+        "name_long": "2121100 - Disclosure - Guarantees and product warranty",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R30.htm"
+    },
+    {
+        "name_short": "Environmental and legal matters",
+        "name_long": "2122100 - Disclosure - Environmental and legal matters",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R31.htm"
+    },
+    {
+        "name_short": "Segment information",
+        "name_long": "2124100 - Disclosure - Segment information",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R32.htm"
+    },
+    {
+        "name_short": "Acquisitions",
+        "name_long": "2126100 - Disclosure - Acquisitions",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R33.htm"
+    },
+    {
+        "name_short": "Restructuring Costs",
+        "name_long": "2128100 - Disclosure - Restructuring Costs",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R34.htm"
+    },
+    {
+        "name_short": "Selected quarterly financial results (unaudited)",
+        "name_long": "2129100 - Disclosure - Selected quarterly financial results (unaudited)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R35.htm"
+    },
+    {
+        "name_short": "Operations and summary of significant accounting policies (Policies)",
+        "name_long": "2201201 - Disclosure - Operations and summary of significant accounting policies (Policies)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R36.htm"
+    },
+    {
+        "name_short": "Sales and revenue recognition sales and revenue recognition (Policies)",
+        "name_long": "2201201 - Disclosure - Sales and revenue recognition sales and revenue recognition (Policies)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R37.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Policies)",
+        "name_long": "2202201 - Disclosure - Derivative financial instruments and risk management (Policies)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R38.htm"
+    },
+    {
+        "name_short": "Stock-based compensation (Tables)",
+        "name_long": "2301301 - Disclosure - Stock-based compensation (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R39.htm"
+    },
+    {
+        "name_short": "Operations and summary of significant accounting policies (Tables)",
+        "name_long": "2301302 - Disclosure - Operations and summary of significant accounting policies (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R40.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Tables)",
+        "name_long": "2302302 - Disclosure - Derivative financial instruments and risk management (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R41.htm"
+    },
+    {
+        "name_short": "Other income (expense) (Tables)",
+        "name_long": "2303301 - Disclosure - Other income (expense) (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R42.htm"
+    },
+    {
+        "name_short": "Income taxes (Tables)",
+        "name_long": "2304301 - Disclosure - Income taxes (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R43.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities (Tables)",
+        "name_long": "2305301 - Disclosure - Cat Financial Financing Activities (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R44.htm"
+    },
+    {
+        "name_short": "Inventories (Tables)",
+        "name_long": "2306301 - Disclosure - Inventories (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R45.htm"
+    },
+    {
+        "name_short": "Property, plant and equipment (Tables)",
+        "name_long": "2307301 - Disclosure - Property, plant and equipment (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R46.htm"
+    },
+    {
+        "name_short": "Intangible assets and goodwill (Tables)",
+        "name_long": "2309301 - Disclosure - Intangible assets and goodwill (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R47.htm"
+    },
+    {
+        "name_short": "Investments in debt and equity securities (Tables)",
+        "name_long": "2310301 - Disclosure - Investments in debt and equity securities (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R48.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Tables)",
+        "name_long": "2311301 - Disclosure - Postemployment benefit plans (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R49.htm"
+    },
+    {
+        "name_short": "Short-term borrowings (Tables)",
+        "name_long": "2312301 - Disclosure - Short-term borrowings (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R50.htm"
+    },
+    {
+        "name_short": "Long-term debt (Tables)",
+        "name_long": "2313301 - Disclosure - Long-term debt (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R51.htm"
+    },
+    {
+        "name_short": "Credit commitments (Tables)",
+        "name_long": "2314301 - Disclosure - Credit commitments (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R52.htm"
+    },
+    {
+        "name_short": "Profit per share (Tables)",
+        "name_long": "2315301 - Disclosure - Profit per share (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R53.htm"
+    },
+    {
+        "name_short": "Accumulated other comprehensive income (loss) (Tables)",
+        "name_long": "2316301 - Disclosure - Accumulated other comprehensive income (loss) (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R54.htm"
+    },
+    {
+        "name_short": "Fair value disclosures (Tables)",
+        "name_long": "2317301 - Disclosure - Fair value disclosures (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R55.htm"
+    },
+    {
+        "name_short": "Leases (Tables)",
+        "name_long": "2320301 - Disclosure - Leases (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R56.htm"
+    },
+    {
+        "name_short": "Guarantees and product warranty (Tables)",
+        "name_long": "2321301 - Disclosure - Guarantees and product warranty (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R57.htm"
+    },
+    {
+        "name_short": "Segment information (Tables)",
+        "name_long": "2324301 - Disclosure - Segment information (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R58.htm"
+    },
+    {
+        "name_short": "Restructuring Costs (Tables)",
+        "name_long": "2328301 - Disclosure - Restructuring Costs (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R59.htm"
+    },
+    {
+        "name_short": "Selected quarterly financial results (unaudited) (Tables)",
+        "name_long": "2329301 - Disclosure - Selected quarterly financial results (unaudited) (Tables)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R60.htm"
+    },
+    {
+        "name_short": "Sales and revenue recognition (Details)",
+        "name_long": "2401402 - Disclosure - Sales and revenue recognition (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R61.htm"
+    },
+    {
+        "name_short": "Stock-based compensation (Details)",
+        "name_long": "2401402 - Disclosure - Stock-based compensation (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R62.htm"
+    },
+    {
+        "name_short": "Operations and summary of significant accounting policies (Details)",
+        "name_long": "2401403 - Disclosure - Operations and summary of significant accounting policies (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R63.htm"
+    },
+    {
+        "name_short": "Stock-based compensation (Details 2)",
+        "name_long": "2401403 - Disclosure - Stock-based compensation (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R64.htm"
+    },
+    {
+        "name_short": "Operations and summary of significant accounting policies (Details 2- Basis of presentation)",
+        "name_long": "2401404 - Disclosure - Operations and summary of significant accounting policies (Details 2- Basis of presentation)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R65.htm"
+    },
+    {
+        "name_short": "Operations and summary of significant accounting policies Operations and summary of significant accounting polices (Details 3- lease accounting)",
+        "name_long": "2401405 - Disclosure - Operations and summary of significant accounting policies Operations and summary of significant accounting polices (Details 3- lease accounting)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R66.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Details)",
+        "name_long": "2402403 - Disclosure - Derivative financial instruments and risk management (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R67.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Details 2)",
+        "name_long": "2402404 - Disclosure - Derivative financial instruments and risk management (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R68.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Details 3)",
+        "name_long": "2402405 - Disclosure - Derivative financial instruments and risk management (Details 3)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R69.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Details 4)",
+        "name_long": "2402406 - Disclosure - Derivative financial instruments and risk management (Details 4)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R70.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Details 5)",
+        "name_long": "2402407 - Disclosure - Derivative financial instruments and risk management (Details 5)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R71.htm"
+    },
+    {
+        "name_short": "Derivative financial instruments and risk management (Details 6)",
+        "name_long": "2402408 - Disclosure - Derivative financial instruments and risk management (Details 6)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R72.htm"
+    },
+    {
+        "name_short": "Other income (expense) (Details)",
+        "name_long": "2403402 - Disclosure - Other income (expense) (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R73.htm"
+    },
+    {
+        "name_short": "Income taxes (Details)",
+        "name_long": "2404402 - Disclosure - Income taxes (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R74.htm"
+    },
+    {
+        "name_short": "Income taxes Income taxes (Details 2)",
+        "name_long": "2404403 - Disclosure - Income taxes Income taxes (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R75.htm"
+    },
+    {
+        "name_short": "Income taxes (Details 3)",
+        "name_long": "2404404 - Disclosure - Income taxes (Details 3)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R76.htm"
+    },
+    {
+        "name_short": "Income taxes (Details 4)",
+        "name_long": "2404405 - Disclosure - Income taxes (Details 4)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R77.htm"
+    },
+    {
+        "name_short": "Income taxes (Details 5)",
+        "name_long": "2404406 - Disclosure - Income taxes (Details 5)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R78.htm"
+    },
+    {
+        "name_short": "Income taxes (Details 6)",
+        "name_long": "2404407 - Disclosure - Income taxes (Details 6)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R79.htm"
+    },
+    {
+        "name_short": "Income taxes (Details 7)",
+        "name_long": "2404408 - Disclosure - Income taxes (Details 7)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R80.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities (Details)",
+        "name_long": "2405402 - Disclosure - Cat Financial Financing Activities (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R81.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities (Details 2)",
+        "name_long": "2405403 - Disclosure - Cat Financial Financing Activities (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R82.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities (Details 3)",
+        "name_long": "2405404 - Disclosure - Cat Financial Financing Activities (Details 3)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R83.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities (Details 4)",
+        "name_long": "2405405 - Disclosure - Cat Financial Financing Activities (Details 4)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R84.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities (Details 5)",
+        "name_long": "2405406 - Disclosure - Cat Financial Financing Activities (Details 5)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R85.htm"
+    },
+    {
+        "name_short": "Cat Financial Finacning Activities (Details 6)",
+        "name_long": "2405407 - Disclosure - Cat Financial Finacning Activities (Details 6)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R86.htm"
+    },
+    {
+        "name_short": "Cat Financial Financing Activities (Details 7)",
+        "name_long": "2405408 - Disclosure - Cat Financial Financing Activities (Details 7)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R87.htm"
+    },
+    {
+        "name_short": "Inventories (Details)",
+        "name_long": "2406402 - Disclosure - Inventories (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R88.htm"
+    },
+    {
+        "name_short": "Property, plant and equipment (Details)",
+        "name_long": "2407402 - Disclosure - Property, plant and equipment (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R89.htm"
+    },
+    {
+        "name_short": "Intangible assets and goodwill (Details Intangible assets)",
+        "name_long": "2409402 - Disclosure - Intangible assets and goodwill (Details Intangible assets)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R90.htm"
+    },
+    {
+        "name_short": "Intangible assets and goodwill (Details 2 Goodwill)",
+        "name_long": "2409403 - Disclosure - Intangible assets and goodwill (Details 2 Goodwill)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R91.htm"
+    },
+    {
+        "name_short": "Investments in debt and equity securities (Details)",
+        "name_long": "2410402 - Disclosure - Investments in debt and equity securities (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R92.htm"
+    },
+    {
+        "name_short": "Investments in debt and equity securities (Details 2)",
+        "name_long": "2410403 - Disclosure - Investments in debt and equity securities (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R93.htm"
+    },
+    {
+        "name_short": "Investments in debt and equity securities (Details 3)",
+        "name_long": "2410404 - Disclosure - Investments in debt and equity securities (Details 3)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R94.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details)",
+        "name_long": "2411402 - Disclosure - Postemployment benefit plans (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R95.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details 2)",
+        "name_long": "2411403 - Disclosure - Postemployment benefit plans (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R96.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details 3)",
+        "name_long": "2411404 - Disclosure - Postemployment benefit plans (Details 3)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R97.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details 4)",
+        "name_long": "2411405 - Disclosure - Postemployment benefit plans (Details 4)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R98.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details 5)",
+        "name_long": "2411406 - Disclosure - Postemployment benefit plans (Details 5)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R99.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details 6)",
+        "name_long": "2411407 - Disclosure - Postemployment benefit plans (Details 6)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R100.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details 7)",
+        "name_long": "2411408 - Disclosure - Postemployment benefit plans (Details 7)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R101.htm"
+    },
+    {
+        "name_short": "Postemployment benefit plans (Details 8)",
+        "name_long": "2411409 - Disclosure - Postemployment benefit plans (Details 8)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R102.htm"
+    },
+    {
+        "name_short": "Short-term borrowings (Details)",
+        "name_long": "2412402 - Disclosure - Short-term borrowings (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R103.htm"
+    },
+    {
+        "name_short": "Long-term debt (Details)",
+        "name_long": "2413402 - Disclosure - Long-term debt (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R104.htm"
+    },
+    {
+        "name_short": "Long-term debt (Details 2)",
+        "name_long": "2413403 - Disclosure - Long-term debt (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R105.htm"
+    },
+    {
+        "name_short": "Credit commitments (Details)",
+        "name_long": "2414402 - Disclosure - Credit commitments (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R106.htm"
+    },
+    {
+        "name_short": "Profit per share (Details)",
+        "name_long": "2415402 - Disclosure - Profit per share (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R107.htm"
+    },
+    {
+        "name_short": "Accumulated other comprehensive income (loss) (Details)",
+        "name_long": "2416402 - Disclosure - Accumulated other comprehensive income (loss) (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R108.htm"
+    },
+    {
+        "name_short": "Accumulated other comprehensive income (loss) (Details 2)",
+        "name_long": "2416403 - Disclosure - Accumulated other comprehensive income (loss) (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R109.htm"
+    },
+    {
+        "name_short": "Fair value disclosures (Details)",
+        "name_long": "2417402 - Disclosure - Fair value disclosures (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R110.htm"
+    },
+    {
+        "name_short": "Fair value disclosures (Details 2)",
+        "name_long": "2417403 - Disclosure - Fair value disclosures (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R111.htm"
+    },
+    {
+        "name_short": "Fair value disclosures (Details 3)",
+        "name_long": "2417404 - Disclosure - Fair value disclosures (Details 3)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R112.htm"
+    },
+    {
+        "name_short": "Concentration of credit risk (Details)",
+        "name_long": "2418401 - Disclosure - Concentration of credit risk (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R113.htm"
+    },
+    {
+        "name_short": "Leases Lessee arrangements - Lease costs (Details)",
+        "name_long": "2420402 - Disclosure - Leases Lessee arrangements - Lease costs (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R114.htm"
+    },
+    {
+        "name_short": "Leases Lessee arrangements - Supplemental balance sheet information related to leases (Details)",
+        "name_long": "2420403 - Disclosure - Leases Lessee arrangements - Supplemental balance sheet information related to leases (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R115.htm"
+    },
+    {
+        "name_short": "Leases Lessee arrangements - Maturity of lease liabilities (Details)",
+        "name_long": "2420404 - Disclosure - Leases Lessee arrangements - Maturity of lease liabilities (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R116.htm"
+    },
+    {
+        "name_short": "Leases Lessee arrangements - Supplemental cash flow information related to leases (Details)",
+        "name_long": "2420405 - Disclosure - Leases Lessee arrangements - Supplemental cash flow information related to leases (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R117.htm"
+    },
+    {
+        "name_short": "Leases Lessor arrangements- Equipment leased to others (Details)",
+        "name_long": "2420406 - Disclosure - Leases Lessor arrangements- Equipment leased to others (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R118.htm"
+    },
+    {
+        "name_short": "Leases Leases Lessor arrangements - Operating lease payment maturity (Details)",
+        "name_long": "2420407 - Disclosure - Leases Leases Lessor arrangements - Operating lease payment maturity (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R119.htm"
+    },
+    {
+        "name_short": "Leases Leases Lessor arrangements - Revenues from finance and operating leases (Details)",
+        "name_long": "2420408 - Disclosure - Leases Leases Lessor arrangements - Revenues from finance and operating leases (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R120.htm"
+    },
+    {
+        "name_short": "Guarantees and product warranty (Details)",
+        "name_long": "2421402 - Disclosure - Guarantees and product warranty (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R121.htm"
+    },
+    {
+        "name_short": "Guarantees and product warranty (Details 2)",
+        "name_long": "2421403 - Disclosure - Guarantees and product warranty (Details 2)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R122.htm"
+    },
+    {
+        "name_short": "Environmental and legal matters Environmental and legal matters (Details)",
+        "name_long": "2422401 - Disclosure - Environmental and legal matters Environmental and legal matters (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R123.htm"
+    },
+    {
+        "name_short": "Reportable Segments (Details)",
+        "name_long": "2424402 - Disclosure - Reportable Segments (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R124.htm"
+    },
+    {
+        "name_short": "Segment information Sales and revenues by geographic region (Details)",
+        "name_long": "2424403 - Disclosure - Segment information Sales and revenues by geographic region (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R125.htm"
+    },
+    {
+        "name_short": "Reconciliation of sales and revenues 2017 (Details)",
+        "name_long": "2424404 - Disclosure - Reconciliation of sales and revenues 2017 (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R126.htm"
+    },
+    {
+        "name_short": "Reconciliation of consolidated profit before taxes (Details)",
+        "name_long": "2424405 - Disclosure - Reconciliation of consolidated profit before taxes (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R127.htm"
+    },
+    {
+        "name_short": "Reconciliation of Restructuring costs (Details)",
+        "name_long": "2424406 - Disclosure - Reconciliation of Restructuring costs (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R128.htm"
+    },
+    {
+        "name_short": "Reconciliation of assets (Details)",
+        "name_long": "2424407 - Disclosure - Reconciliation of assets (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R129.htm"
+    },
+    {
+        "name_short": "Reconciliation of Depreciation and amortization (Details)",
+        "name_long": "2424408 - Disclosure - Reconciliation of Depreciation and amortization (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R130.htm"
+    },
+    {
+        "name_short": "Reconciliation of Capital expenditures (Details)",
+        "name_long": "2424409 - Disclosure - Reconciliation of Capital expenditures (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R131.htm"
+    },
+    {
+        "name_short": "Information about Geogrphic areas (Details)",
+        "name_long": "2424410 - Disclosure - Information about Geogrphic areas (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R132.htm"
+    },
+    {
+        "name_short": "Acquisitions (Details)",
+        "name_long": "2426401 - Disclosure - Acquisitions (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R133.htm"
+    },
+    {
+        "name_short": "Restructuring Costs (Details)",
+        "name_long": "2428402 - Disclosure - Restructuring Costs (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R134.htm"
+    },
+    {
+        "name_short": "Selected quarterly financial results (unaudited) (Details)",
+        "name_long": "2429402 - Disclosure - Selected quarterly financial results (unaudited) (Details)",
+        "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/R135.htm"
+    }
+]
