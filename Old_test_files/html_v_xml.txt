@@ -1,0 +1,573 @@
+XML VERSION
+
+<?xml version="1.0" encoding="utf-8"?><html><body><instancereport xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.0.0.3</version>
+<hassegments>false</hassegments>
+<reportname>Consolidated Statements of Operations (USD $)</reportname>
+<roundingoption>In Millions, except Per Share data</roundingoption>
+<columns>
+	<column>
+		<labelcolumn>false</labelcolumn>
+		<id>1</id>
+		<labels>
+			<label id="1" label="12 Months Ended"></label>
+			<label id="2" label="Dec. 31, 2009"></label>
+		</labels>
+		<currencysymbol>$</currencysymbol>
+		<hassegments>false</hassegments>
+		<hasscenarios>false</hasscenarios>
+		<segments></segments>
+		<scenarios></scenarios>
+		<units>
+			<unit>
+				<unitid>iso4217_USD</unitid>
+				<unittype>Standard</unittype>
+				<standardmeasure>
+					<measureschema>http://www.xbrl.org/2003/iso4217</measureschema>
+					<measurevalue>USD</measurevalue>
+					<measurenamespace>iso4217</measurenamespace>
+				</standardmeasure>
+				<scale>0</scale>
+			</unit>
+			<unit>
+				<unitid>iso4217_USD_per_shares</unitid>
+				<unittype>Divide</unittype>
+				<numeratormeasure>
+					<measureschema>http://www.xbrl.org/2003/iso4217</measureschema>
+					<measurevalue>USD</measurevalue>
+					<measurenamespace>iso4217</measurenamespace>
+				</numeratormeasure>
+				<denominatormeasure>
+					<measureschema>http://www.xbrl.org/2003/instance</measureschema>
+					<measurevalue>shares</measurevalue>
+					<measurenamespace></measurenamespace>
+				</denominatormeasure>
+				<scale>0</scale>
+			</unit>
+		</units>
+	</column>
+<column>
+<labelcolumn>false</labelcolumn>
+<id>2</id>
+<labels>
+<label id="1" label="12 Months Ended"></label>
+<label id="2" label="Dec. 31, 2008"></label>
+</labels>
+<currencysymbol>$</currencysymbol>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+<segments></segments>
+<scenarios></scenarios>
+<units>
+<unit>
+<unitid>iso4217_USD</unitid>
+<unittype>Standard</unittype>
+<standardmeasure>
+<measureschema>http://www.xbrl.org/2003/iso4217</measureschema>
+<measurevalue>USD</measurevalue>
+<measurenamespace>iso4217</measurenamespace>
+</standardmeasure>
+<scale>0</scale>
+</unit>
+<unit>
+<unitid>iso4217_USD_per_shares</unitid>
+<unittype>Divide</unittype>
+<numeratormeasure>
+<measureschema>http://www.xbrl.org/2003/iso4217</measureschema>
+<measurevalue>USD</measurevalue>
+<measurenamespace>iso4217</measurenamespace>
+</numeratormeasure>
+<denominatormeasure>
+<measureschema>http://www.xbrl.org/2003/instance</measureschema>
+<measurevalue>shares</measurevalue>
+<measurenamespace></measurenamespace>
+</denominatormeasure>
+<scale>0</scale>
+</unit>
+</units>
+</column>
+<column>
+<labelcolumn>false</labelcolumn>
+<id>3</id>
+<labels>
+<label id="1" label="12 Months Ended"></label>
+<label id="2" label="Dec. 31, 2007"></label>
+</labels>
+<currencysymbol>$</currencysymbol>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+<segments></segments>
+<scenarios></scenarios>
+<units>
+<unit>
+<unitid>iso4217_USD</unitid>
+<unittype>Standard</unittype>
+<standardmeasure>
+<measureschema>http://www.xbrl.org/2003/iso4217</measureschema>
+<measurevalue>USD</measurevalue>
+<measurenamespace>iso4217</measurenamespace>
+</standardmeasure>
+<scale>0</scale>
+</unit>
+<unit>
+<unitid>iso4217_USD_per_shares</unitid>
+<unittype>Divide</unittype>
+<numeratormeasure>
+<measureschema>http://www.xbrl.org/2003/iso4217</measureschema>
+<measurevalue>USD</measurevalue>
+<measurenamespace>iso4217</measurenamespace>
+</numeratormeasure>
+<denominatormeasure>
+<measureschema>http://www.xbrl.org/2003/instance</measureschema>
+<measurevalue>shares</measurevalue>
+<measurenamespace></measurenamespace>
+</denominatormeasure>
+<scale>0</scale>
+</unit>
+</units>
+</column>
+</columns>
+	<rows>
+		<row>
+			<id>5</id>
+			<label>Sales of products</label>
+			<level>3</level>
+			<elementname>us-gaap_SalesRevenueGoodsNet</elementname>
+			<elementprefix>us-gaap</elementprefix>
+			<isbaseelement>true</isbaseelement>
+			<balancetype>credit</balancetype>
+			<periodtype>duration</periodtype>
+			<elementdatatype>monetary</elementdatatype>
+			<shortdefinition>No definition available.</shortdefinition>
+			<isreporttitle>false</isreporttitle>
+			<issegmenttitle>false</issegmenttitle>
+			<issubreportend>false</issubreportend>
+			<iscalendartitle>false</iscalendartitle>
+			<istuple>false</istuple>
+			<isabstractgrouptitle>false</isabstractgrouptitle>
+			<isbeginningbalance>false</isbeginningbalance>
+			<isendingbalance>false</isendingbalance>
+			<iseps>false</iseps>
+			<cells>
+				<cell>
+					<id>1</id>
+					<showcurrencysymbol>true</showcurrencysymbol>
+					<isnumeric>true</isnumeric>
+					<numericamount>57032000000</numericamount>
+					<roundednumericamount>57032</roundednumericamount>
+					<nonnumberictext></nonnumberictext>
+					<nonnumerictextheader></nonnumerictextheader>
+					<footnoteindexer></footnoteindexer>
+					<hassegments>false</hassegments>
+					<hasscenarios>false</hasscenarios>
+				</cell>
+				<cell>
+					<id>2</id>
+					<showcurrencysymbol>true</showcurrencysymbol>
+					<isnumeric>true</isnumeric>
+					<numericamount>50180000000</numericamount>
+					<roundednumericamount>50180</roundednumericamount>
+					<nonnumberictext></nonnumberictext>
+					<nonnumerictextheader></nonnumerictextheader>
+					<footnoteindexer></footnoteindexer>
+					<hassegments>false</hassegments>
+					<hasscenarios>false</hasscenarios>
+				</cell>
+<cell>
+<id>3</id>
+<showcurrencysymbol>true</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>57049000000</numericamount>
+<roundednumericamount>57049</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+</cells>
+<elementdefenition>No definition available.</elementdefenition>
+<elementreferences>No authoritative reference available.</elementreferences>
+<istotallabel>false</istotallabel>
+</row>
+<row>
+<id>6</id>
+<label>Sales of services</label>
+<level>3</level>
+<elementname>us-gaap_SalesRevenueServicesNet</elementname>
+<elementprefix>us-gaap</elementprefix>
+<isbaseelement>true</isbaseelement>
+<balancetype>credit</balancetype>
+<periodtype>duration</periodtype>
+<elementdatatype>monetary</elementdatatype>
+<shortdefinition>No definition available.</shortdefinition>
+<isreporttitle>false</isreporttitle>
+<issegmenttitle>false</issegmenttitle>
+<issubreportend>false</issubreportend>
+<iscalendartitle>false</iscalendartitle>
+<istuple>false</istuple>
+<isabstractgrouptitle>false</isabstractgrouptitle>
+<isbeginningbalance>false</isbeginningbalance>
+<isendingbalance>false</isendingbalance>
+<iseps>false</iseps>
+<cells>
+<cell>
+<id>1</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>11249000000</numericamount>
+<roundednumericamount>11249</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>2</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>10729000000</numericamount>
+<roundednumericamount>10729</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>3</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>9338000000</numericamount>
+<roundednumericamount>9338</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+</cells>
+<elementdefenition>No definition available.</elementdefenition>
+<elementreferences>No authoritative reference available.</elementreferences>
+<istotallabel>false</istotallabel>
+</row>
+<row>
+<id>7</id>
+<label>Total revenues</label>
+<level>3</level>
+<elementname>us-gaap_Revenues</elementname>
+<elementprefix>us-gaap</elementprefix>
+<isbaseelement>true</isbaseelement>
+<balancetype>credit</balancetype>
+<periodtype>duration</periodtype>
+<elementdatatype>monetary</elementdatatype>
+<shortdefinition>No definition available.</shortdefinition>
+<isreporttitle>false</isreporttitle>
+<issegmenttitle>false</issegmenttitle>
+<issubreportend>false</issubreportend>
+<iscalendartitle>false</iscalendartitle>
+<istuple>false</istuple>
+<isabstractgrouptitle>false</isabstractgrouptitle>
+<isbeginningbalance>false</isbeginningbalance>
+<isendingbalance>false</isendingbalance>
+<iseps>false</iseps>
+<cells>
+<cell>
+<id>1</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>68281000000</numericamount>
+<roundednumericamount>68281</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>2</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>60909000000</numericamount>
+<roundednumericamount>60909</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>3</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>66387000000</numericamount>
+<roundednumericamount>66387</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+</cells>
+<elementdefenition>No definition available.</elementdefenition>
+<elementreferences>No authoritative reference available.</elementreferences>
+<istotallabel>true</istotallabel>
+</row>
+<row>
+<id>8</id>
+<label>Cost of products</label>
+<level>3</level>
+<elementname>us-gaap_CostOfGoodsSold</elementname>
+<elementprefix>us-gaap</elementprefix>
+<isbaseelement>true</isbaseelement>
+<balancetype>debit</balancetype>
+<periodtype>duration</periodtype>
+<elementdatatype>monetary</elementdatatype>
+<shortdefinition>No definition available.</shortdefinition>
+<isreporttitle>false</isreporttitle>
+<issegmenttitle>false</issegmenttitle>
+<issubreportend>false</issubreportend>
+<iscalendartitle>false</iscalendartitle>
+<istuple>false</istuple>
+<isabstractgrouptitle>false</isabstractgrouptitle>
+<isbeginningbalance>false</isbeginningbalance>
+<isendingbalance>false</isendingbalance>
+<iseps>false</iseps>
+<cells>
+<cell>
+<id>1</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>-47639000000</numericamount>
+<roundednumericamount>-47639</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>2</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>-41662000000</numericamount>
+<roundednumericamount>-41662</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>3</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>-45375000000</numericamount>
+<roundednumericamount>-45375</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+</cells>
+<elementdefenition>No definition available.</elementdefenition>
+<elementreferences>No authoritative reference available.</elementreferences>
+<istotallabel>false</istotallabel>
+</row>
+<row>
+<id>9</id>
+<label>Cost of services</label>
+<level>3</level>
+<elementname>us-gaap_CostOfServices</elementname>
+<elementprefix>us-gaap</elementprefix>
+<isbaseelement>true</isbaseelement>
+<balancetype>debit</balancetype>
+<periodtype>duration</periodtype>
+<elementdatatype>monetary</elementdatatype>
+<shortdefinition>No definition available.</shortdefinition>
+<isreporttitle>false</isreporttitle>
+<issegmenttitle>false</issegmenttitle>
+<issubreportend>false</issubreportend>
+<iscalendartitle>false</iscalendartitle>
+<istuple>false</istuple>
+<isabstractgrouptitle>false</isabstractgrouptitle>
+<isbeginningbalance>false</isbeginningbalance>
+<isendingbalance>false</isendingbalance>
+<iseps>false</iseps>
+<cells>
+<cell>
+<id>1</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>-8726000000</numericamount>
+<roundednumericamount>-8726</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>2</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>-8467000000</numericamount>
+<roundednumericamount>-8467</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+<cell>
+<id>3</id>
+<showcurrencysymbol>false</showcurrencysymbol>
+<isnumeric>true</isnumeric>
+<numericamount>-7732000000</numericamount>
+<roundednumericamount>-7732</roundednumericamount>
+<nonnumberictext></nonnumberictext>
+<nonnumerictextheader></nonnumerictextheader>
+<footnoteindexer></footnoteindexer>
+<hassegments>false</hassegments>
+<hasscenarios>false</hasscenarios>
+</cell>
+</cells>
+<elementdefenition>No definition available.</elementdefenition>
+<elementreferences>No authoritative reference available.</elementreferences>
+<istotallabel>false</istotallabel>
+</row>
+<row>
+<id>10</id>
+<label>Boeing Capital Corporation interest expense</label>
+<level>3</level>
+<elementname>us-gaap_FinancingInterestExpense</elementname>
+<elementprefix>us-gaap</elementprefix>
+<isbaseelement>true</isbaseelement>
+<balancetype>debit</balancetype>
+<periodtype>duration</periodtype>
+<elementdatatype>monetary</elementdatatype>
+<shortdefinition>No definition available.</shortdefinition>
+<isreporttitle>false</isreporttitle>
+<issegmenttitle>false</issegmenttitle>
+<issubreportend>false</issubreportend>
+<iscalendartitle>false</iscalendartitle>
+<istuple>false</istuple>
+<isabstractgrouptitle>false</isabst
+______________________________________________________________________________________________________________________________________________________________
+HTML VERSION
+
+<html><body><document>
+<type>XML
+<sequence>81
+<filename>R2.htm
+<description>IDEA: XBRL DOCUMENT
+<text>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title></title>
+<link href="report.css" rel="stylesheet" type="text/css"/><script src="Show.js" type="text/javascript">/* Do Not Remove This Comment */</script><script type="text/javascript">
+                                                        function toggleNextSibling (e) {
+                                                        if (e.nextSibling.style.display=='none') {
+                                                        e.nextSibling.style.display='block';
+                                                        } else {
+                                                        e.nextSibling.style.display='none';
+                                                        }
+                                                        }</script>
+<span style="display: none;">v2.4.1.9</span><table border="0" cellspacing="2" class="report" id="ID0EXWAG">
+<tr>
+<th class="tl" colspan="1" rowspan="2">
+<div style="width: 200px;"><strong>Consolidated Statements Of Operations (USD $)<br/>In Millions, except Per Share data, unless otherwise specified</strong></div>
+</th>
+<th class="th" colspan="3">12 Months Ended</th>
+</tr>
+<tr>
+<th class="th">
+<div>Dec. 31, 2014</div>
+</th>
+<th class="th">
+<div>Dec. 31, 2013</div>
+</th>
+<th class="th">
+<div>Dec. 31, 2012</div>
+</th>
+</tr>
+<tr class="re">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_IncomeStatementAbstract', window );"><strong>Income Statement [Abstract]</strong></a></td>
+<td class="text"> <span></span></td>
+<td class="text"> <span></span></td>
+<td class="text"> <span></span></td>
+</tr>
+<tr class="ro">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_SalesRevenueGoodsNet', window );">Sales of 
+products</a></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_SalesRevenueGoodsNet">$ 80,688</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_SalesRevenueGoodsNet</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_SalesRevenueGoodsNet">$ 76,792</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_SalesRevenueGoodsNet</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_SalesRevenueGoodsNet">$ 71,234</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_SalesRevenueGoodsNet</span><span></span></td>
+</tr>
+<tr class="re">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_SalesRevenueServicesNet', window );">Sales 
+of services</a></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_SalesRevenueServicesNet">10,074</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_SalesRevenueServicesNet</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_SalesRevenueServicesNet">9,831</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_SalesRevenueServicesNet</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_SalesRevenueServicesNet">10,464</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_SalesRevenueServicesNet</span><span></span></td>
+</tr>
+<tr class="rou">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_Revenues', window );">Total revenues</a></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_Revenues">90,762</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_Revenues</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_Revenues">86,623</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_Revenues</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_Revenues">81,698</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_Revenues</span><span></span></td>
+</tr>
+<tr class="re">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_CostOfGoodsSold', window );">Cost of products</a></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfGoodsSold">(68,551)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfGoodsSold</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfGoodsSold">(65,640)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfGoodsSold</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfGoodsSold">(60,309)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfGoodsSold</span><span></span></td>
+</tr>
+<tr class="ro">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_CostOfServices', window );">Cost of services</a></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfServices">(8,132)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfServices</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfServices">(7,553)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfServices</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfServices">(8,247)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfServices</span><span></span></td>
+</tr>
+<tr class="re">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_FinancialServicesCosts', window );">Boeing 
+Capital interest expense</a></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_FinancialServicesCosts">(69)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_FinancialServicesCosts</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_FinancialServicesCosts">(75)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_FinancialServicesCosts</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_FinancialServicesCosts">(109)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_FinancialServicesCosts</span><span></span></td>
+</tr>
+<tr class="rou">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_CostOfRevenue', window );">Total costs and 
+expenses</a></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfRevenue">(76,752)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfRevenue</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfRevenue">(73,268)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfRevenue</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_CostOfRevenue">(68,665)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_CostOfRevenue</span><span></span></td>
+</tr>
+<tr class="reu">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_GrossProfit', window );">Gross profit</a></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_GrossProfit">14,010</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_GrossProfit</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_GrossProfit">13,355</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_GrossProfit</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_GrossProfit">13,033</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_GrossProfit</span><span></span></td>
+</tr>
+<tr class="ro">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_IncomeLossFromEquityMethodInvestments', window );">Income from operating investments, net</a></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_IncomeLossFromEquityMethodInvestments">287</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_IncomeLossFromEquityMethodInvestments</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_IncomeLossFromEquityMethodInvestments">214</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_IncomeLossFromEquityMethodInvestments</span><span></span></td>
+<td class="nump"><a onclick="toggleNextSibling(this);" title="us-gaap_IncomeLossFromEquityMethodInvestments">268</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_IncomeLossFromEquityMethodInvestments</span><span></span></td>
+</tr>
+<tr class="re">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_GeneralAndAdministrativeExpense', window );">General and administrative expense</a></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_GeneralAndAdministrativeExpense">(3,767)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_GeneralAndAdministrativeExpense</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_GeneralAndAdministrativeExpense">(3,956)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_GeneralAndAdministrativeExpense</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_GeneralAndAdministrativeExpense">(3,717)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_GeneralAndAdministrativeExpense</span><span></span></td>
+</tr>
+<tr class="ro">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_ResearchAndDevelopmentExpense', window );">Research and development expense, net</a></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_ResearchAndDevelopmentExpense">(3,047)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_ResearchAndDevelopmentExpense</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_ResearchAndDevelopmentExpense">(3,071)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_ResearchAndDevelopmentExpense</span><span></span></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_ResearchAndDevelopmentExpense">(3,298)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_ResearchAndDevelopmentExpense</span><span></span></td>
+</tr>
+<tr class="re">
+<td class="pl" style="border-bottom: 0px;" valign="top"><a class="a" href="javascript:void(0);" onclick="top.Show.showAR( this, 'defref_us-gaap_GainLossOnDispositionOfAssets', window );">(Loss)/gain on dispositions, net</a></td>
+<td class="num"><a onclick="toggleNextSibling(this);" title="us-gaap_GainLossOnDispositionOfAssets">(10)</a><span style="display:none;white-space:normal;text-align:left;">us-gaap_GainLossOnDispositionOfAsse

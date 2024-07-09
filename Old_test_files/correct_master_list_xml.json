@@ -1,0 +1,1154 @@
+[
+    {
+        "0000018230-20-000056": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2020-02-19",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/0000018230-20-000056-index.htm",
+                "filing_type": "10-K",
+                "form_number": "20628709",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "50 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823020000056/0000018230-20-000056-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2020-02-19T14:12:34-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-19-000034": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2019-02-14",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823019000034/0000018230-19-000034-index.htm",
+                "filing_type": "10-K",
+                "form_number": "19603997",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "56 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823019000034/0000018230-19-000034-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2019-02-14T13:25:13-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-18-000042": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2018-02-15",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823018000042/0000018230-18-000042-index.htm",
+                "filing_type": "10-K",
+                "form_number": "18616837",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "52 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823018000042/0000018230-18-000042-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2018-02-15T12:14:45-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-17-000041": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2017-02-15",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823017000041/0000018230-17-000041-index.htm",
+                "filing_type": "10-K",
+                "form_number": "17613998",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "58 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823017000041/0000018230-17-000041-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2017-02-15T13:45:35-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-16-000410": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2016-02-16",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823016000410/0000018230-16-000410-index.htm",
+                "filing_type": "10-K",
+                "form_number": "161424792",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "52 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823016000410/0000018230-16-000410-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2016-02-16T11:20:14-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-15-000061": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2015-02-17",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823015000061/0000018230-15-000061-index.htm",
+                "filing_type": "10-K",
+                "form_number": "15624323",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "78 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823015000061/0000018230-15-000061-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2015-02-17T17:15:52-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-14-000058": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2014-02-18",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823014000058/0000018230-14-000058-index.htm",
+                "filing_type": "10-K",
+                "form_number": "14621711",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "88 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823014000058/0000018230-14-000058-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2014-02-18T14:25:26-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-13-000075": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2013-02-19",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823013000075/0000018230-13-000075-index.htm",
+                "filing_type": "10-K",
+                "form_number": "13622443",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "74 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823013000075/0000018230-13-000075-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2013-02-19T12:26:30-05:00"
+            }
+        }
+    },
+    {
+        "0001104659-12-011331": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2012-02-21",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000110465912011331/0001104659-12-011331-index.htm",
+                "filing_type": "10-K",
+                "form_number": "12626789",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "63 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000110465912011331/0001104659-12-011331-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2012-02-21T15:49:01-05:00"
+            }
+        }
+    },
+    {
+        "0001104659-11-008938": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2011-02-22",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000110465911008938/0001104659-11-008938-index.htm",
+                "filing_type": "10-K",
+                "form_number": "11629423",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "73 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000110465911008938/0001104659-11-008938-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2011-02-22T17:15:14-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-10-000092": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2010-02-19",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823010000092/0000018230-10-000092-index.htm",
+                "filing_type": "10-K",
+                "form_number": "10618847",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "32 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823010000092/0000018230-10-000092-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2010-02-19T12:42:45-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-09-000063": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2009-02-20",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823009000063/0000018230-09-000063-index.htm",
+                "filing_type": "10-K",
+                "form_number": "09624751",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "26 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823009000063/0000018230-09-000063-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2009-02-20T14:49:22-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-08-000052": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2008-02-22",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823008000052/0000018230-08-000052-index.htm",
+                "filing_type": "10-K",
+                "form_number": "08635705",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "10 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823008000052/0000018230-08-000052-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2008-02-22T13:39:59-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-07-000053": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2007-02-23",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823007000053/0000018230-07-000053-index.htm",
+                "filing_type": "10-K",
+                "form_number": "07645118",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "10 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823007000053/0000018230-07-000053-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2007-02-23T14:07:22-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-06-000262": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2006-05-31",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823006000262/0000018230-06-000262-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "06876414",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "4 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823006000262/0000018230-06-000262-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2006-05-31T13:52:23-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-06-000139": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2006-02-22",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823006000139/0000018230-06-000139-index.htm",
+                "filing_type": "10-K",
+                "form_number": "06637029",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "5 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823006000139/0000018230-06-000139-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2006-02-22T17:28:58-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-05-000404": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2005-05-27",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823005000404/0000018230-05-000404-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "05862245",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "1 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823005000404/0000018230-05-000404-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2005-05-27T11:48:24-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-05-000218": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2005-02-24",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823005000218/0000018230-05-000218-index.htm",
+                "filing_type": "10-K",
+                "form_number": "05637850",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "2 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823005000218/0000018230-05-000218-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2005-02-24T16:42:01-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-04-000433": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2004-06-28",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823004000433/0000018230-04-000433-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "04884261",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "1 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823004000433/0000018230-04-000433-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2004-06-28T14:21:40-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-04-000320": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2004-05-28",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823004000320/0000018230-04-000320-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "04836497",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "503 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823004000320/0000018230-04-000320-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2004-05-27T20:10:54-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-04-000161": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2004-03-10",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823004000161/0000018230-04-000161-index.htm",
+                "filing_type": "10-K",
+                "form_number": "04659774",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "4 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823004000161/0000018230-04-000161-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2004-03-10T14:17:24-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-03-000289": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2003-07-17",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000289/0000018230-03-000289-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "03791609",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "2 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000289/0000018230-03-000289-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2003-07-17T16:46:23-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-03-000216": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2003-05-29",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000216/0000018230-03-000216-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "03722306",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "372 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000216/0000018230-03-000216-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2003-05-28T19:32:45-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-03-000130": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2003-03-31",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000130/0000018230-03-000130-index.htm",
+                "filing_type": "10-K",
+                "form_number": "03631889",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "4 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000130/0000018230-03-000130-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2003-03-31T17:10:42-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-03-000051": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2003-01-21",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000051/0000018230-03-000051-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "03519524",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "799 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823003000051/0000018230-03-000051-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2003-01-21T15:30:50-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-02-000039": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2002-05-24",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823002000039/0000018230-02-000039-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "02662248",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "839 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823002000039/0000018230-02-000039-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2002-05-24T15:30:53-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-02-000014": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2002-03-22",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823002000014/0000018230-02-000014-index.htm",
+                "filing_type": "10-K405",
+                "form_number": "02582689",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "4 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823002000014/0000018230-02-000014-index.htm",
+                "title": "10-K405  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "2002-03-22T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-01-500053": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2001-06-13",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823001500053/0000018230-01-500053-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "1659717",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "776 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823001500053/0000018230-01-500053-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2001-06-13T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-01-500050": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2001-05-30",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823001500050/0000018230-01-500050-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "1650913",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "776 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823001500050/0000018230-01-500050-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2001-05-30T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000018230-01-500017": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2001-03-15",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000001823001500017/0000018230-01-500017-index.htm",
+                "filing_type": "10-K",
+                "form_number": "1568687",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "2 MB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823001500017/0000018230-01-500017-index.htm",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2001-03-15T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000950131-00-003906": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2000-06-14",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000095013100003906/0000950131-00-003906-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "654882",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "525 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000095013100003906/0000950131-00-003906-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2000-06-14T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-00-003843": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2000-06-09",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000095013100003843/0000950131-00-003843-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "652540",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "525 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000095013100003843/0000950131-00-003843-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2000-06-09T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-00-003682": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2000-05-31",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/000095013100003682/0000950131-00-003682-index.htm",
+                "filing_type": "10-K/A",
+                "form_number": "647228",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "524 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/000095013100003682/0000950131-00-003682-index.htm",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "2000-05-31T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0001021408-00-001352": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "2000-03-30",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0001021408-00-001352-index.html",
+                "filing_type": "10-K405",
+                "form_number": "588628",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "993 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0001021408-00-001352-index.html",
+                "title": "10-K405  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "2000-03-30T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000950131-99-003526": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1999-06-01",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-99-003526-index.html",
+                "filing_type": "10-K405/A",
+                "form_number": "99638568",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "257 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-99-003526-index.html",
+                "title": "10-K405/A [Amend]  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1999-06-01T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-99-001977": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1999-03-31",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-99-001977-index.html",
+                "filing_type": "10-K405",
+                "form_number": "99581889",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "374 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-99-001977-index.html",
+                "title": "10-K405  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1999-03-31T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000950131-98-003989": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1998-06-23",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-98-003989-index.html",
+                "filing_type": "10-K405/A",
+                "form_number": "98652356",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "261 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-98-003989-index.html",
+                "title": "10-K405/A [Amend]  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1998-06-23T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-98-003612": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1998-05-29",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-98-003612-index.html",
+                "filing_type": "10-K405/A",
+                "form_number": "98634699",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "260 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-98-003612-index.html",
+                "title": "10-K405/A [Amend]  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1998-05-29T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-98-002084": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1998-03-27",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-98-002084-index.html",
+                "filing_type": "10-K405",
+                "form_number": "98576628",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "318 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-98-002084-index.html",
+                "title": "10-K405  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1998-03-27T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000950131-97-004218": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1997-06-30",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-97-004218-index.html",
+                "filing_type": "10-K405/A",
+                "form_number": "97632588",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "180 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-97-004218-index.html",
+                "title": "10-K405/A [Amend]  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1997-06-30T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-97-003694": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1997-05-29",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-97-003694-index.html",
+                "filing_type": "10-K405/A",
+                "form_number": "97616063",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "114 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-97-003694-index.html",
+                "title": "10-K405/A [Amend]  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1997-05-29T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-97-002066": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K405"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1997-03-26",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-97-002066-index.html",
+                "filing_type": "10-K405",
+                "form_number": "97563756",
+                "form_name": "Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "file_size": "364 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-97-002066-index.html",
+                "title": "10-K405  - Annual report [Sections 13 and 15(d), S-K Item 405]",
+                "last_updated": "1997-03-26T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000950131-96-002501": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1996-05-28",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-96-002501-index.html",
+                "filing_type": "10-K/A",
+                "form_number": "96573015",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "200 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-96-002501-index.html",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "1996-05-28T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-96-000892": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1996-03-05",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-96-000892-index.html",
+                "filing_type": "10-K",
+                "form_number": "96531290",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "374 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-96-000892-index.html",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "1996-03-05T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000950131-95-001470": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1995-05-31",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-95-001470-index.html",
+                "filing_type": "10-K/A",
+                "form_number": "95543670",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "191 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-95-001470-index.html",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "1995-05-31T00:00:00-04:00"
+            }
+        }
+    },
+    {
+        "0000950131-95-000812": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K/A"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1995-03-30",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-95-000812-index.html",
+                "filing_type": "10-K/A",
+                "form_number": "95525322",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "1 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-95-000812-index.html",
+                "title": "10-K/A [Amend]  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "1995-03-30T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000950131-95-000431": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1995-02-23",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-95-000431-index.html",
+                "filing_type": "10-K",
+                "form_number": "95514603",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "341 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000950131-95-000431-index.html",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "1995-02-23T00:00:00-05:00"
+            }
+        }
+    },
+    {
+        "0000018230-94-000007": {
+            "category": {
+                "label": "form type",
+                "scheme": "https://www.sec.gov/",
+                "term": "10-K"
+            },
+            "file_info": {
+                "file_number": "001-00768",
+                "file_number_href": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&filenum=001-00768&owner=exclude&count=100",
+                "filing_date": "1994-03-02",
+                "filing_href": "https://www.sec.gov/Archives/edgar/data/18230/0000018230-94-000007-index.html",
+                "filing_type": "10-K",
+                "form_number": "94514336",
+                "form_name": "Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "file_size": "597 KB"
+            },
+            "request_info": {
+                "link": "https://www.sec.gov/Archives/edgar/data/18230/0000018230-94-000007-index.html",
+                "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+                "last_updated": "1994-03-02T00:00:00-05:00"
+            }
+        }
+    }
+]
