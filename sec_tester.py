@@ -24,7 +24,6 @@ def FetchXml(cik,dateb,frm_type,headers):
 
     # Let the user know it was successful. See xml_file.txt for response text. Will show content for step 2
     print('Fetched xml file: '+str(response.url))
-    print(entries[0])
 
     # find & return all the entry tags, see entry.txt for file
     entries = soup.find_all('entry')
@@ -50,27 +49,16 @@ def FetchReqFilings(xml_entries):
         # store the category info into each entry
         category_info = entry.find('category')    
         entry_dict[accession_num]['category'] = {}
-        entry_dict[accession_num]['category']['label'] = category_info['label']
-        entry_dict[accession_num]['category']['scheme'] = category_info['scheme']
         entry_dict[accession_num]['category']['term'] =  category_info['term']
 
         # store the file info
         entry_dict[accession_num]['file_info'] = {}
         #entry_dict[accession_num]['file_info']['act'] = entry.find('act').text
         entry_dict[accession_num]['file_info']['file_number'] = entry.find('file-number').text
-        entry_dict[accession_num]['file_info']['file_number_href'] = entry.find('file-number-href').text
         entry_dict[accession_num]['file_info']['filing_date'] =  entry.find('filing-date').text
         entry_dict[accession_num]['file_info']['filing_href'] = entry.find('filing-href').text
         entry_dict[accession_num]['file_info']['filing_type'] =  entry.find('filing-type').text
         entry_dict[accession_num]['file_info']['form_number'] =  entry.find('film-number').text
-        entry_dict[accession_num]['file_info']['form_name'] =  entry.find('form-name').text
-        entry_dict[accession_num]['file_info']['file_size'] =  entry.find('size').text
-        
-        # store extra info
-        entry_dict[accession_num]['request_info'] = {}
-        entry_dict[accession_num]['request_info']['link'] =  entry.find('link')['href']
-        entry_dict[accession_num]['request_info']['title'] =  entry.find('title').text
-        entry_dict[accession_num]['request_info']['last_updated'] =  entry.find('updated').text
         
         # store in the master list. see master_list.txt for content
         master_list_xml.append(entry_dict)
@@ -141,9 +129,9 @@ def ReportPieces(json_list,keys,dates,headers):
     '''Iterate through All JSON Links to retrieve Data, Data is retrieved with a request to the report html link and parsed with bS4'''
     count = 0 
     while count != 1:
-        stop_gap  = len(json_list) 
+        stop_gap  = len(json_list)
+
         #Iterate through each json_list entry
-        #print(f'\ncount: \t{count}\n')
         document_url = json_list[count][keys[count]][dates[count]]
         content = requests.get(document_url,headers=headers).json()
 
@@ -155,7 +143,6 @@ def ReportPieces(json_list,keys,dates,headers):
                 xml_summary = base_url + content['directory']['name'] + "/" + file['name']
             
         base_url = xml_summary.replace('FilingSummary.xml', '')
-        print(f'base url {base_url}')
 
         # request and parse the content
         content = requests.get(xml_summary, headers=headers).content
@@ -163,7 +150,7 @@ def ReportPieces(json_list,keys,dates,headers):
 
         reports = soup.find('myreports')
 
-        # I want a list to store all the individual components of the report, so create the master list.
+        # store all the individual components of the report here
         master_reports = []
 
         # loop through each report in the 'myreports' tag but avoid the last one as this will cause an error.
@@ -173,16 +160,15 @@ def ReportPieces(json_list,keys,dates,headers):
             report_dict = {}
             report_dict['name_short'] = report.shortname.text
             report_dict['name_long'] = report.longname.text
-            '''report_dict['position'] = report.position.text
-            report_dict['category'] = report.menucategory.text'''
             if report.htmlfilename is not None: report_dict['url'] = base_url + report.htmlfilename.text
             elif report.xmlfilename is not None: report_dict['url'] = base_url + report.xmlfilename.text
             else: continue
-            #report.xmlfilename is not None: report_dict['url'] = base_url + report.xmlfilename.text
-            # append the dictionary to the master list.
             master_reports.append(report_dict)
 
         count+=1
+
+    with open('master_reports.json','w') as f:
+        f.write(json.dumps(master_reports,indent=4))
     return master_reports
 
 def xmlfindr(soup):
@@ -286,7 +272,9 @@ def remChar(value):
     return ""
 
 
-def CleanSheet(DataFrame):   
+def CleanSheet(DataFrame):
+    '''This gets called when the headers (i.e. dates & url) do not match the column count.
+       it is likely due to phantom columns from html tables which contain foot note references'''   
     #Remove footer notes
     null_val = lambda row : True if str(row[0])=="" or str(row[0])=='nan' else False
     for index,row in DataFrame.iterrows():
@@ -307,7 +295,8 @@ def CreateDataframe(financials,name):
     #Add url to headers
     income_data = financials[0]['data']
     income_header =  financials[0]['headers'][0]
-    
+
+    #Check for phantom columns & remove them
     income_df = pd.DataFrame(income_data)
     if len(income_df.columns) != len(income_header):
         print('Incorrect DataFrame alignment. Attempting to fix')
@@ -317,7 +306,7 @@ def CreateDataframe(financials,name):
     income_df = income_df.replace('[\$,)]','', regex=True )\
                         .replace( '[(]','-', regex=True)\
                         .replace( '', 'NaN', regex=True)
-    #income_df.to_csv('filtered'+name+'.csv')
+    income_df.to_csv('filtered'+name+'.csv')
 
     filtered_list = [s for s in income_header if all(word not in s for word in ["Ended", "Months", "Years"])]
     income_df.columns= filtered_list
